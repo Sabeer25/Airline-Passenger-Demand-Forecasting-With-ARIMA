@@ -61,9 +61,12 @@ The project uses monthly airline passenger data with the following structure:
 ```bash
 git clone https://github.com/your-username/airline-passenger-demand-forecasting-arima.git
 cd airline-passenger-demand-forecasting-arima
-
-###2️⃣ Install Dependencies
+```
+### 2️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
-
-###3️⃣ Run the Project
+```
+### 3️⃣ Run the Project
+```bash
 python src/main.py
+```
